@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.api.bank.infrastructure.controller.implementations.AccountControllerTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-08-29T01:15:06" hostname="JANSKAELF" time="0.982">
+  <properties/>
+  <testcase name="getAccount()" classname="com.api.bank.infrastructure.controller.implementations.AccountControllerTest" time="0.659"/>
+  <testcase name="createAccount()" classname="com.api.bank.infrastructure.controller.implementations.AccountControllerTest" time="0.319"/>
+  <system-out><![CDATA[20:15:07.421 [Test worker] INFO com.api.bank.infrastructure.controller.implementations.AccountController - [getAccount] Start 12345678
+20:15:07.881 [Test worker] INFO com.api.bank.infrastructure.controller.implementations.AccountController - [createAccount] Start {"accountNumber":"12345678","accountType":null,"initialBalance":null,"state":null,"customer":{"idCustomer":null,"password":null,"state":null,"person":{"idPerson":null,"name":"Andres","gender":null,"birthdate":null,"identification":null,"address":null,"phoneNumber":null}}}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

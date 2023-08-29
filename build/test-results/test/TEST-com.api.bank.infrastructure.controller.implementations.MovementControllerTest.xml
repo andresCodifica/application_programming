@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.api.bank.infrastructure.controller.implementations.MovementControllerTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-08-29T01:15:07" hostname="JANSKAELF" time="0.047">
+  <properties/>
+  <testcase name="movement()" classname="com.api.bank.infrastructure.controller.implementations.MovementControllerTest" time="0.032"/>
+  <testcase name="getMovementByDates()" classname="com.api.bank.infrastructure.controller.implementations.MovementControllerTest" time="0.014"/>
+  <system-out><![CDATA[20:15:07.918 [Test worker] INFO com.api.bank.infrastructure.controller.implementations.MovementController - [movement] Start MovementRequest(accountNumber=null, type=null, amount=null, dateMovement=null)
+20:15:07.933 [Test worker] INFO com.api.bank.infrastructure.controller.implementations.MovementController - [getMovementByDates] Start 2021-01-01 2021-01-01 12345678
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

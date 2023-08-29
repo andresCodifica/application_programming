@@ -1,0 +1,4 @@
+ˆ20:15:07.421 [Test worker] INFO com.api.bank.infrastructure.controller.implementations.AccountController - [getAccount] Start 12345678
+“20:15:07.881 [Test worker] INFO com.api.bank.infrastructure.controller.implementations.AccountController - [createAccount] Start {"accountNumber":"12345678","accountType":null,"initialBalance":null,"state":null,"customer":{"idCustomer":null,"password":null,"state":null,"person":{"idPerson":null,"name":"Andres","gender":null,"birthdate":null,"identification":null,"address":null,"phoneNumber":null}}}
+Í20:15:07.918 [Test worker] INFO com.api.bank.infrastructure.controller.implementations.MovementController - [movement] Start MovementRequest(accountNumber=null, type=null, amount=null, dateMovement=null)
+§20:15:07.933 [Test worker] INFO com.api.bank.infrastructure.controller.implementations.MovementController - [getMovementByDates] Start 2021-01-01 2021-01-01 12345678
