@@ -1,6 +1,6 @@
 # Application programming
 # Demo
-Puedes acceder a la demo en línea [Swagger](http://35.170.18.79:8082/swagger-ui.html#/)
+Puede accede a la demo en línea [Swagger](http://35.170.18.79:8082/swagger-ui.html#/)
 
 # Arquitectura Hexagonal en Spring Boot JPA y MySQL
 Este proyecto implementa la arquitectura hexagonal utilizando Spring Boot y MySQL para una separación eficiente de las capas.
