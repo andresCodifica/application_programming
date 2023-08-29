@@ -6,7 +6,7 @@ Puede accede a la demo en línea [Swagger](http://35.170.18.79:8082/swagger-ui.h
 Este proyecto implementa la arquitectura hexagonal utilizando Spring Boot y MySQL para una separación eficiente de las capas.
 
 # Requisitos Previos
-Java
+Java 11
 Docker (opcional)
 MySQL
 # Instalación y Uso
